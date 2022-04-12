@@ -1,0 +1,6 @@
+{
+  "name": "issue-demo",
+  "workspaces": [
+    "web"
+  ]
+}
